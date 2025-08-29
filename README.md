@@ -22,15 +22,15 @@ Replace 'assets/profile.jpg' with your own photo (recommended: 200x200 to 300x30
 Upload your file to assets/profile.jpg.
 -->
 
-Hi, I'm **Yshian** — a Computer Science student.
+Hello, I’m Yshian.  
+I like quiet code, minimal designs, and solving problems with a calm approach.  
+Most of my projects reflect simplicity, focus, and curiosity.
 
 ---
 
 ## 🧊 AREAS OF INTEREST & PROGRAMMING LANGUAGES
 
-<!--
-Add/remove badges as needed. Shields.io badge examples below.
--->
+
 **Areas:**  
 `Web Dev` • `Minimalist UI` • `Open Source`
 
@@ -49,8 +49,8 @@ Add/remove badges as needed. Shields.io badge examples below.
 ## 🌨️ FUN FACTS
 
 - I drink more tea than Ice Bear drinks fish smoothies.
-- My favorite IDE theme is always the one with the most white space.
-- I once coded an alarm clock that only wakes you if it’s snowing.
+- I’d rather walk in cold weather than in the heat.
+- I believe dark mode saves more than just battery.
 - I can write “Hello, World!” in three languages… with mittens on.
 - I believe every bug can be fixed with a calm mind (and maybe a nap).
 
@@ -58,9 +58,9 @@ Add/remove badges as needed. Shields.io badge examples below.
 
 ## 📫 CONTACTS
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](#)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/takisblueheat)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/x67qamjwv7l5b71jebp6p958m?si=8027687ff7c04de0)
 
 ---
 
@@ -71,7 +71,7 @@ Add/remove badges as needed. Shields.io badge examples below.
 Change license badge/link if you use a different license.
 -->
 
-_Last updated: {{YYYY-MM-DD}}_
+_Last updated: 08/29/25_
 
 **Thanks for visiting! 🐻‍❄️**
 
