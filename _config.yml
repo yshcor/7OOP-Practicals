@@ -1,5 +1,5 @@
-remote_theme: songkong/Blog
-title: Yshian - Portfolio
+remote_theme: pages-themes/minimal@v0.2.0
+title: Yshian - Portfolio  
 description: My 7OOP Lab Portfolio
 plugins:
 - jekyll-remote-theme
