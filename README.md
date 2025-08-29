@@ -1,13 +1,3 @@
-<!--
-README.md
-Jekyll "Ice Bear" theme — minimalist, polar bear inspired.
-Edit all placeholders marked {{LIKE_THIS}} or assets/* as needed.
--->
-
-<!--
-TOP BANNER — Replace with your own banner image (1200x300px recommended).
-Upload to assets/banner.png.
--->
 ![Ice Bear Banner - replace with your image](assets/banner.png)
 
 # 🐻‍❄️ **Ysh**
@@ -17,10 +7,7 @@ Upload to assets/banner.png.
 ## ❄️ ABOUT ME
 
 <img src="assets/profile.jpg" alt="Profile photo of {{YOUR_NAME}} (replace with your image)" width="160" style="border-radius:50%; margin-bottom:1em;">
-<!--
-Replace 'assets/profile.jpg' with your own photo (recommended: 200x200 to 300x300 px, circular crop if possible).
-Upload your file to assets/profile.jpg.
--->
+
 
 Hello, I’m Yshian.  
 I like quiet code, minimal designs, and solving problems with a calm approach.  
@@ -67,14 +54,9 @@ Most of my projects reflect simplicity, focus, and curiosity.
 ## 🧊 FOOTER
 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue?style=flat)](LICENSE)
-<!--
-Change license badge/link if you use a different license.
--->
+
 
 _Last updated: 08/29/25_
 
 **Thanks for visiting! 🐻‍❄️**
 
-<!--
-END OF README
--->
