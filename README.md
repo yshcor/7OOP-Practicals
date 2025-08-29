@@ -1,4 +1,4 @@
-![Ice Bear Banner - replace with your image](assets/banner.png)
+![Ice Bear Banner](assets/banner.png)
 
 # 🐻‍❄️ **Ysh**
 
