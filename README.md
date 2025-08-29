@@ -6,7 +6,7 @@
 
 ## ❄️ ABOUT ME
 
-<img src="assets/profile.jpg" alt="Profile photo of {{YOUR_NAME}} (replace with your image)" width="160" style="border-radius:50%; margin-bottom:1em;">
+<img src="assets/profile.png" alt="Profile photo of {{YOUR_NAME}} (replace with your image)" width="160" style="border-radius:50%; margin-bottom:1em;">
 
 
 Hello, I’m Yshian.  
