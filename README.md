@@ -27,22 +27,21 @@ Most of my projects reflect simplicity, focus, and curiosity.
 
 ---
 
-## 🏔️ MIDTERM LABORATORY
-
-This repository contains my completed **Midterm Lab Tasks (1–5)** for our programming course.  
-Each lab demonstrates specific Python concepts such as escape sequences, placeholders, user input, and conditional statements.
+## 🏔️ ABOUT THIS REPOSITORY
+This repository contains my **Midterm Laboratory Tasks (1–5)** in **Python**, created as part of my programming fundamentals course.  
+Each lab demonstrates specific Python concepts — from basic I/O to object-oriented programming — all structured with clarity, consistency, and a minimalist Ice Bear theme.
 
 ---
 
-## 📚 OVERVIEW OF LABS
+## 🧩 LAB SUMMARIES
 
-| Task | Title / Focus | Description | Link |
-|:----:|----------------|-------------|------|
-| 1 | Escape Sequences, Placeholders, and Basic I/O | Practice using escape characters, placeholders, and conditional statements. | [View Lab 1](./LabTask1/README.md) |
-| 2 | Conditional Logic and Loops | Exploring decisions, iterations, and control flow in Python. | [View Lab 2](./LabTask2/README.md) |
-| 3 | Functions and Data Structures | Introduction to modular coding and handling lists or dictionaries. | [View Lab 3](./LabTask3/README.md) |
-| 4 | File Handling and Exceptions | Reading, writing, and managing errors in Python. | [View Lab 4](./LabTask4/README.md) |
-| 5 | Final Integration | Combining all learned concepts into a complete mini-program. | [View Lab 5](./LabTask5/README.md) |
+| Task | Focus | Description | Link |
+|:----:|:------|:-------------|:------|
+| 1 | Escape Sequences & Conditionals | Practice using escape characters, placeholders, user input, and `if–elif–else` logic. | [View Lab 1](./LabTask1/README.md) |
+| 2 | Functions | Create modular programs using custom functions (Multiplication Table, ATM system). | [View Lab 2](./LabTask2/README.md) |
+| 3 | Lists | Implement list operations: add, search, remove, display, and sort items. | [View Lab 3](./LabTask3/README.md) |
+| 4 | Dictionaries | Use key–value pairs to manage menu orders and compute totals. | [View Lab 4](./LabTask4/README.md) |
+| 5 | Classes & Objects | Apply Object-Oriented Programming by creating and managing user profiles in a social media system. | [View Lab 5](./LabTask5/README.md) |
 
 ---
 
