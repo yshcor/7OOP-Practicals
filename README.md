@@ -37,7 +37,7 @@ Each lab demonstrates specific Python concepts — from basic I/O to object-orie
 
 | Task | Focus | Description | Link |
 |:----:|:------|:-------------|:------|
-| 1 | Escape Sequences & Conditionals | Practice using escape characters, placeholders, user input, and `if–elif–else` logic. | [View Lab 1](./LabTask1/README.md) |
+| 1 | Escape Sequences & Conditionals | Practice using escape characters, placeholders, user input, and `if–elif–else` logic. | [View Lab 1](./midterm-lab-tasks/LabTask1/README.md) |
 | 2 | Functions | Create modular programs using custom functions (Multiplication Table, ATM system). | [View Lab 2](./LabTask2/README.md) |
 | 3 | Lists | Implement list operations: add, search, remove, display, and sort items. | [View Lab 3](./LabTask3/README.md) |
 | 4 | Dictionaries | Use key–value pairs to manage menu orders and compute totals. | [View Lab 4](./LabTask4/README.md) |
