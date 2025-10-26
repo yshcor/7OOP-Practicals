@@ -63,7 +63,7 @@ This repository contains my **Midterm Laboratory Tasks (1–5)** for a Python pr
     <td align="center"><strong>1</strong></td>
     <td>Escape Sequences & Conditionals</td>
     <td>String formatting, escape characters, user input validation, <code>if-elif-else</code> logic</td>
-    <td align="center"><a href="./midterm-lab-tasks/LabTask1/README.md">View Lab 1</a></td>
+    <td align="center"><a href="./https://github.com/yshcor/7OOP-Practicals/blob/main/midterm-lab-tasks/LabTask1/README.md">View Lab 1</a></td>
   </tr>
   <tr>
     <td align="center"><strong>2</strong></td>
