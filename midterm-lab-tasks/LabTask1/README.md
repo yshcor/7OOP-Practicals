@@ -14,13 +14,13 @@ This lab introduces:
 **Problem 3:** Implement book reservation with input  
 **Problem 4:** Create a day identifier  
 
-Refer to [`lab-task-1-instructions.pdf`](./lab-task-1-instructions.pdf) for full task details.
+Refer to [`LabTask1_Instructions.pdf`](./LabTask1_Instructions.pdf) for full task details.
 
 ---
 
 ### 💻 Output Preview
 You can view my program results here:  
-📄 [Output PDF](./lab-task-1-output.pdf)
+📄 [Output PDF](./LabTask1_Output.pdf)
 
 ---
 
