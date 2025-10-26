@@ -63,31 +63,31 @@ This repository contains my **Midterm Laboratory Tasks (1–5)** for a Python pr
     <td align="center"><strong>1</strong></td>
     <td>Escape Sequences & Conditionals</td>
     <td>String formatting, escape characters, user input validation, <code>if-elif-else</code> logic</td>
-    <td align="center"><a href="./https://github.com/yshcor/7OOP-Practicals/blob/main/midterm-lab-tasks/LabTask1/README.md">View Lab 1</a></td>
+    <td align="center"><a href="https://github.com/yshcor/7OOP-Practicals/tree/main/midterm-lab-tasks/LabTask1">View Lab 1</a></td>
   </tr>
   <tr>
     <td align="center"><strong>2</strong></td>
     <td>Functions</td>
     <td>Modular design, function parameters and returns, practical applications (Multiplication Table, ATM simulation)</td>
-    <td align="center"><a href="./midterm-lab-tasks/LabTask2/README.md">View Lab 2</a></td>
+    <td align="center"><a href="https://github.com/yshcor/7OOP-Practicals/tree/main/midterm-lab-tasks/LabTask2">View Lab 2</a></td>
   </tr>
   <tr>
     <td align="center"><strong>3</strong></td>
     <td>Lists</td>
     <td>List operations, CRUD functionality (create, read, update, delete), sorting algorithms</td>
-    <td align="center"><a href="./midterm-lab-tasks/LabTask3/README.md">View Lab 3</a></td>
+    <td align="center"><a href="https://github.com/yshcor/7OOP-Practicals/tree/main/midterm-lab-tasks/LabTask3">View Lab 3</a></td>
   </tr>
   <tr>
     <td align="center"><strong>4</strong></td>
     <td>Dictionaries</td>
     <td>Key-value pairs, data mapping, menu ordering system with calculations</td>
-    <td align="center"><a href="./midterm-lab-tasks/LabTask4/README.md">View Lab 4</a></td>
+    <td align="center"><a href="https://github.com/yshcor/7OOP-Practicals/tree/main/midterm-lab-tasks/LabTask4">View Lab 4</a></td>
   </tr>
   <tr>
     <td align="center"><strong>5</strong></td>
     <td>Classes & Objects</td>
     <td>Object-oriented programming, encapsulation, class methods, social media profile management system</td>
-    <td align="center"><a href="./midterm-lab-tasks/LabTask5/README.md">View Lab 5</a></td>
+    <td align="center"><a href="https://github.com/yshcor/7OOP-Practicals/tree/main/midterm-lab-tasks/LabTask5">View Lab 5</a></td>
   </tr>
 </tbody>
 </table>
