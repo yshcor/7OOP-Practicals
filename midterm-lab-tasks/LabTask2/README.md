@@ -1,24 +1,28 @@
 # 🧊 Lab Task 2 — Using Functions in Python
 
 ### 📘 Overview
-This lab focuses on the use of **functions** to organize and structure Python programs.  
-It includes exercises that require defining, calling, and managing functions for both computational and interactive tasks.
+This lab demonstrates how to use **functions** in Python to make code modular, organized, and reusable.  
+It covers the creation of user-defined functions for performing specific tasks, as well as the use of loops and conditionals to manage program flow.
 
 ---
 
-### 🧩 Problems Summary
-| Problem | Focus | Description |
-|:--------:|--------|-------------|
-| 1 | Multiplication Table | Generate a multiplication table based on user-defined rows and columns using nested loops. |
-| 2 | Simple ATM System | Implement a menu-driven banking program that uses functions for deposit, withdrawal, and balance display. |
+### 🧩 Problems
+**Problem 1:** Create a multiplication table using functions and nested loops.  
+**Problem 2:** Develop a simple ATM program that uses functions to perform operations such as showing balance, deposit, and withdrawal.
 
-📘 [Instructions (PDF)](./LabTask2_Instructions.pdf)
+Refer to [`LabTask2_Instructions.pdf`](./LabTask2_Instructions.pdf) for the complete set of instructions.
 
 ---
 
-### 💻 Code Samples
+### 💻 Output Preview
+You can view my program results here:  
+📄 [Output PDF](./LabTask2_Output.pdf)
 
-#### 🧱 Problem 1 — Multiplication Table
+---
+
+### 🐍 Optional — Source Code Example
+
+#### 🧱 Problem 1: Multiplication Table
 ```python
 rows = int(input("How many rows: "))
 cols = int(input("How many cols: "))
