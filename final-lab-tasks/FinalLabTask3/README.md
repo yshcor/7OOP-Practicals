@@ -21,7 +21,7 @@ The task requires creating a **Bird Sound System** that:
 
 **Note:** Test cases are provided by a hidden test file to validate your implementation.
 
-📄 [Refer to `FinalLabTask3_Instructions.pdf`](./FinalLabTask3_Instructions.pdf)
+📄 Refer to [`FinalLabTask3_Instructions.pdf`](./FinalLabTask3_Instructions.pdf) for the complete task requirements.
 
 ---
 
