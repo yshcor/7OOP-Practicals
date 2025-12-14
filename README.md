@@ -5,7 +5,7 @@
 <h1 align="center">🐻‍❄️ Ysh</h1>
 
 <p align="center">
-  <em>Python Programming Fundamentals • Midterm Laboratory Portfolio</em>
+  <em>Python Programming Fundamentals • Midterm & Final Laboratory Portfolio</em>
 </p>
 
 ---
@@ -36,7 +36,7 @@ I believe the best solutions are often the simplest ones. My work emphasizes cla
 
 ## 🏔️ Repository Overview
 
-This repository contains my **Midterm Laboratory Tasks (1–5)** for a Python programming fundamentals course. Each lab explores core Python concepts—from basic input/output to object-oriented programming—with clean code, clear documentation, and an Ice Bear-inspired aesthetic.
+This repository contains my **Midterm (M1–M5)** and **Final (F1–F5)** Laboratory Tasks for a Python programming fundamentals course. Each lab explores core Python concepts—from basic input/output to object-oriented programming—with clean code, clear documentation, and an Ice Bear-inspired aesthetic.
 
 ### Learning Objectives Covered
 - Control flow and conditional logic
@@ -44,6 +44,9 @@ This repository contains my **Midterm Laboratory Tasks (1–5)** for a Python pr
 - Data structures (lists, dictionaries)
 - Object-oriented programming principles
 - Problem-solving through systematic decomposition
+- Advanced OOP concepts: encapsulation, inheritance, polymorphism
+- GUI programming with Tkinter
+- Database integration with Python and MySQL
 
 ---
 
