@@ -19,7 +19,7 @@ The task requires creating a **School Performance** system that:
 - Demonstrates inheritance relationships using a test file with multiple test cases
 - Verifies subclass relationships using `issubclass()`
 
-📄 [Refer to `FinalLabTask2_Instructions.pdf`](./FinalLabTask2_Instructions.pdf)
+📄 Refer to [`FinalLabTask2_Instructions.pdf`](./FinalLabTask2_Instructions.pdf) for the complete task requirements.
 
 ---
 
