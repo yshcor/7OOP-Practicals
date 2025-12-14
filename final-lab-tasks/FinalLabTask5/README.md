@@ -31,7 +31,7 @@ The task requires creating a **Movie Database CLI Application** that:
 - XAMPP running (Apache + MySQL)
 - Database user with admin privileges
 
-📄 [Refer to `FinalLabTask5_Instructions.pdf`](./FinalLabTask5_Instructions.pdf)
+📄 Refer to [`FinalLabTask5_Instructions.pdf`](./FinalLabTask5_Instructions.pdf) for the complete task requirements.
 
 ---
 
