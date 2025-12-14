@@ -28,7 +28,7 @@ The task requires creating a **Long Distance Call Charge Calculator** that:
 - Separate pricing for Day Time vs Night Time calls
 - Charges calculated based on rate per time interval
 
-📄 [Refer to `FinalLabTask4_Instructions.pdf`](./FinalLabTask4_Instructions.pdf)
+📄 Refer to [`FinalLabTask4_Instructions.pdf`](./FinalLabTask4_Instructions.pdf) for the complete task requirements.
 
 ---
 
