@@ -48,7 +48,6 @@ This repository contains my **Midterm Laboratory Tasks (1–5)** for a Python pr
 ---
 
 ## 🧩 Laboratory Tasks
-
 <table>
 <thead>
   <tr>
@@ -60,34 +59,64 @@ This repository contains my **Midterm Laboratory Tasks (1–5)** for a Python pr
 </thead>
 <tbody>
   <tr>
-    <td align="center"><strong>1</strong></td>
+    <td align="center"><strong>M1</strong></td>
     <td>Escape Sequences & Conditionals</td>
     <td>String formatting, escape characters, user input validation, <code>if-elif-else</code> logic</td>
-    <td align="center"><a href="https://github.com/yshcor/7OOP-Practicals/tree/main/midterm-lab-tasks/LabTask1">View Lab 1</a></td>
+    <td align="center"><a href="https://github.com/yshcor/7OOP-Practicals/tree/main/midterm-lab-tasks/LabTask1">View Midterm Lab 1</a></td>
   </tr>
   <tr>
-    <td align="center"><strong>2</strong></td>
+    <td align="center"><strong>M2</strong></td>
     <td>Functions</td>
     <td>Modular design, function parameters and returns, practical applications (Multiplication Table, ATM simulation)</td>
-    <td align="center"><a href="https://github.com/yshcor/7OOP-Practicals/tree/main/midterm-lab-tasks/LabTask2">View Lab 2</a></td>
+    <td align="center"><a href="https://github.com/yshcor/7OOP-Practicals/tree/main/midterm-lab-tasks/LabTask2">View Midterm Lab 2</a></td>
   </tr>
   <tr>
-    <td align="center"><strong>3</strong></td>
+    <td align="center"><strong>M3</strong></td>
     <td>Lists</td>
     <td>List operations, CRUD functionality (create, read, update, delete), sorting algorithms</td>
-    <td align="center"><a href="https://github.com/yshcor/7OOP-Practicals/tree/main/midterm-lab-tasks/LabTask3">View Lab 3</a></td>
+    <td align="center"><a href="https://github.com/yshcor/7OOP-Practicals/tree/main/midterm-lab-tasks/LabTask3">View Midterm Lab 3</a></td>
   </tr>
   <tr>
-    <td align="center"><strong>4</strong></td>
+    <td align="center"><strong>M4</strong></td>
     <td>Dictionaries</td>
     <td>Key-value pairs, data mapping, menu ordering system with calculations</td>
-    <td align="center"><a href="https://github.com/yshcor/7OOP-Practicals/tree/main/midterm-lab-tasks/LabTask4">View Lab 4</a></td>
+    <td align="center"><a href="https://github.com/yshcor/7OOP-Practicals/tree/main/midterm-lab-tasks/LabTask4">View Midterm Lab 4</a></td>
   </tr>
   <tr>
-    <td align="center"><strong>5</strong></td>
+    <td align="center"><strong>M5</strong></td>
     <td>Classes & Objects</td>
     <td>Object-oriented programming, encapsulation, class methods, social media profile management system</td>
-    <td align="center"><a href="https://github.com/yshcor/7OOP-Practicals/tree/main/midterm-lab-tasks/LabTask5">View Lab 5</a></td>
+    <td align="center"><a href="https://github.com/yshcor/7OOP-Practicals/tree/main/midterm-lab-tasks/LabTask5">View Midterm Lab 5</a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>F1</strong></td>
+    <td>Encapsulation in Python</td>
+    <td>Private attributes, getter/setter methods, <code>__str__()</code> method, data protection and controlled access</td>
+    <td align="center"><a href="https://github.com/yshcor/7OOP-Practicals/tree/main/final-lab-tasks/FinalLabTask1">View Final Lab 1</a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>F2</strong></td>
+    <td>Inheritance in Python</td>
+    <td>Base and subclasses, <code>super()</code> initialization, method inheritance, code reuse, class hierarchy (Performer system)</td>
+    <td align="center"><a href="https://github.com/yshcor/7OOP-Practicals/tree/main/final-lab-tasks/FinalLabTask2">View Final Lab 2</a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>F3</strong></td>
+    <td>Polymorphism in Python</td>
+    <td>Abstract base classes (ABC), <code>@abstractmethod</code> decorator, polymorphic behavior, interface implementation</td>
+    <td align="center"><a href="https://github.com/yshcor/7OOP-Practicals/tree/main/final-lab-tasks/FinalLabTask3">View Final Lab 3</a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>F4</strong></td>
+    <td>Python GUI using Tkinter</td>
+    <td>GUI widgets (Entry, ComboBox, RadioButton), event handling, input validation, TRY-EXCEPT blocks, OOP-based GUI design</td>
+    <td align="center"><a href="https://github.com/yshcor/7OOP-Practicals/tree/main/final-lab-tasks/FinalLabTask4">View Final Lab 4</a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>F5</strong></td>
+    <td>CLI with MySQL and Python</td>
+    <td>Database connectivity (mysql-connector), CRUD operations, SQL queries, parameterized statements, cursor management, CLI design</td>
+    <td align="center"><a href="https://github.com/yshcor/7OOP-Practicals/tree/main/final-lab-tasks/FinalLabTask5">View Final Lab 5</a></td>
   </tr>
 </tbody>
 </table>
@@ -131,6 +160,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 <p align="center">
-  <sub>Last updated: October 27, 2025</sub><br>
+  <sub>Last updated: December 15, 2025</sub><br>
   <strong>Thanks for visiting! 🐻‍❄️</strong>
 </p>
