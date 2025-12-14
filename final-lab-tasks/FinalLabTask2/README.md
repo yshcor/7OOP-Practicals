@@ -1,4 +1,4 @@
-# 🎭 Finals Lab Task 2 — Inheritance in Python
+# 🧊 Finals Lab Task 2 — Inheritance in Python
 ### 🎤 School Performance Hierarchy
 
 ---
